@@ -26,7 +26,7 @@ Now install the dependencies with
 Running the app
 -----------------
 
-To run the app simply run the following command in the cloned driectory::
+To run the app simply run the following command in the cloned driectory
 
 	python ArtistLyricsApp.py
 
